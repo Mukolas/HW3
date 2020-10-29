@@ -144,11 +144,25 @@
 //
 //Zavdannya12
 //
-let a = 100; 
-let b = '100'; 
-let c = true; 
-let d = undefined;
-console.log(a+' is '+typeof a);
-console.log(b+' is '+typeof b);
-console.log(c+' is '+typeof c);
-console.log(d+' is '+typeof d);
+// let a = 100; 
+// let b = '100'; 
+// let c = true; 
+// let d = undefined;
+// console.log(a+' is '+typeof a);
+// console.log(b+' is '+typeof b);
+// console.log(c+' is '+typeof c);
+// console.log(d+' is '+typeof d);
+//
+//Zavdannya13
+//
+// 5 < 6 -> true
+//     5 > 6 -> false
+//     5 == 6 -> false
+//     5 === 6 -> false
+//     10 == 10 -> true
+//     10 === 10 -> true
+//     10 != 10 -> false
+//     10 > 10 -> false
+//     10 < 10 -> false
+//     123 !=== '123' -> false
+//     123 === '123' -> true
